@@ -1,4 +1,15 @@
-### Hi there 👋
+Hi there, I'm ✨ Natalie ✨
+
+I am currently a student at Bloomtech Institute of Techonology 🖥️ 
+
+I'm currently learning/mastering:
+
+  💡 React
+  💡 Javascript
+  💡 HTML
+  💡 CSS
+
+Fun Fact: I have a free roam bunny 🐰 
 
 <!--
 **thomnat/thomnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
