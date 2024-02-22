@@ -8,9 +8,9 @@ Full Stack Web Developer Course
 
 💡I'm currently learning/mastering:
 
-React 
-Javascript
-HTML
+React,
+Javascript,
+HTML,
 CSS
 
 📬How to reach me: nataliethompson2314@gmail.com
