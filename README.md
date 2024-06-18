@@ -11,7 +11,9 @@ Full Stack Web Developer Course
 React,
 Javascript,
 HTML,
-CSS
+CSS,
+Node.js,
+Express
 
 📬How to reach me: nataliethompson2314@gmail.com
 
